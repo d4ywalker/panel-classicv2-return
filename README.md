@@ -5,9 +5,24 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://php.net/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com/)
+[![YouTube Demo](https://img.shields.io/badge/YouTube-Video_Demo-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=LNS8Zpe5FdQ)
 [![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)](https://github.com/d4ywalker)
 
 Panel Classicv2 Return is an enterprise-grade, dark-fantasy themed Web Portal, In-Game Item Mall (PUS), Top-Up Gateway, and Administration CMS platform developed for modern Knight Online game servers.
+
+---
+
+## Live Video Demo & Walkthrough
+
+<div align="center">
+
+[![Watch Panel Classicv2 Return Video Preview](https://img.youtube.com/vi/LNS8Zpe5FdQ/hqdefault.jpg)](https://www.youtube.com/watch?v=LNS8Zpe5FdQ)
+
+<br/>
+
+[![Watch on YouTube](https://img.shields.io/badge/Watch_Panel_Demo_on_YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=LNS8Zpe5FdQ)
+
+</div>
 
 ---
 
@@ -101,5 +116,6 @@ Developed by [Nex2killer (d4ywalker)](https://github.com/d4ywalker)
 - Discord: ahmad.bai
 - Facebook: https://www.facebook.com/near.ahmad
 - Instagram: https://instagram.com/ahmadbaihaqi27
+- YouTube: https://www.youtube.com/watch?v=LNS8Zpe5FdQ
 - PayPal: vishaka.ahmad@gmail.com
 - USDT (TRC-20): TY4KH1tfqfPTd3vQ2Vw4EzeEuKEmdsyyjL
